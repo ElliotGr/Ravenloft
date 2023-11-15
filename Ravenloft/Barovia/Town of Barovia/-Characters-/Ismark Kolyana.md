@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ismark
 tags:
   - character
 location: "[[Ravenloft/Barovia/Town of Barovia/Town of Barovia.md|Town of Barovia]]"
@@ -7,7 +9,7 @@ location: "[[Ravenloft/Barovia/Town of Barovia/Town of Barovia.md|Town of Barovi
 `$= await dv.view('一Resources一/Views/characterHeader')`
 
 > [!info]- What do they look like?
-> Worn face, scars on his face. Very attractive.
+> Worn face, scars on his face. Very attractive. Broad figure (as in buff), chiselled features.
 
 Patron of the Village.
 

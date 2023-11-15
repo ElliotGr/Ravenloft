@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Me
   - Gravy
   - Elliot
   - Elliot Gravestock

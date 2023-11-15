@@ -13,3 +13,5 @@ Cobblestone streets. No location signs etc. The pavement gets flatter and more e
 Main roads with a central crossroads.
 
 Lots of dull, dark, lifeless empty houses and buildings. Shops and trading posts that have been boarded up etc. Abandoned a long time ago.
+
+There's a church a little way out of the town.

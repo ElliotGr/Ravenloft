@@ -1,6 +1,7 @@
 ---
 aliases:
   - Artemis
+  - Me
 tags:
   - character/player
 factions: "[[-Parties-/Strahd Friends/Strahd Friends.md|Strahd Friends]]"

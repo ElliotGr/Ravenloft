@@ -7,3 +7,5 @@ player: "[[-Players-/Eleanor Skipper/Eleanor Skipper.md|Eleanor Skipper]]"
 
 `$= await dv.view('一Resources一/Views/playerCharacterHeader')`
 
+> [!question]- What does he look like?
+> Male half-elf
