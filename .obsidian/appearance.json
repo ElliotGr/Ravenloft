@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "embed-strict"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true,
+  "baseFontSizeAction": false
+}
