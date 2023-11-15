@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "0ae11f3aacbc0c3a",
@@ -228,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ravenloft/Barovia/-Characters-/Draken.md",
+                "file": "-Campaigns-/Curse Of Strahd/Session 2/Trying to Save Ismark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ravenloft/Barovia/-Characters-/Draken.md",
+                "file": "-Campaigns-/Curse Of Strahd/Session 2/Trying to Save Ismark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,14 +287,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "656612c6ceb991f3",
+  "active": "aa78aacd44b75052",
   "lastOpenFiles": [
+    "Ravenloft/Barovia/-Characters-/Draken.md",
     "Ravenloft/Barovia/Town of Barovia/-Characters-/Ismark Kolyana.md",
     "Ravenloft/Barovia/Castle of Strahd/-Characters-/Strahd.md",
     "Ravenloft/Barovia/Town of Barovia/Blood of the Vine Tavern/Blood of the Vine Tavern.md",
     "-Players-/Ethan Sorrel/-Characters-/Dukane/Dukane.md",
     "-Campaigns-/Curse Of Strahd/Session 2/Trying to Save Ismark.md",
-    "Ravenloft/Barovia/-Characters-/Draken.md",
     "-Players-/Elliot Gravestock/-Characters-/Artemis Lee/Artemis Lee.md",
     "-Players-/Eleanor Skipper/-Characters-/Alwyn/Alwyn.md",
     "-Campaigns-/Curse Of Strahd/Session 1/Checking out the Tavern.md",
