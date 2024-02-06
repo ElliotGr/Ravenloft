@@ -13,7 +13,7 @@ session: "[[-Campaigns-/Curse Of Strahd/Session 1/Session 1.md|Session 1]]"
 
 `$= await dv.view('一Resources一/Views/sceneHeader')`
 
-En route to the [[Blood of the Vine Tavern]], we see [[Ildrith's Mercantile]].
+En route to the [[Blood of the Vine Tavern]], we see [[BIldrath's Mercantile]].
 
 The tavern seems empty, despite hearing voices from outside. 3 people in bright clothes ([[Vestani]]) by the entrance. Barkeep moves around somewhat robotically, obviously in his routine. 1 man in the corner.
 

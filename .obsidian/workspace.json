@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cdb55d7b342c546",
+        "id": "a1777e2e62488047",
         "type": "split",
         "children": [
           {
-            "id": "145352255d1ba79f",
+            "id": "f24bb0aff24ddc4c",
             "type": "tabs",
-            "dimension": 50.646551724137936,
+            "dimension": 54.02298850574712,
             "children": [
               {
-                "id": "791465bdf78d721d",
+                "id": "c62ae512749d1122",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ravenloft/Barovia/Town of Barovia/-Characters-/Madam Eva.md",
+                    "file": "-Campaigns-/Curse Of Strahd/Session 6/The Consequences of our Actions.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
@@ -26,7 +26,41 @@
                 }
               },
               {
-                "id": "fe451a9e1552a178",
+                "id": "8c81daf53cd29115",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "-Campaigns-/Curse Of Strahd/Session 5/Madame Eva.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "137119d028ca0c39",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "-Players-/Shaan Jivan/-Characters-/Marko Romenzo/Marko Romenzo.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "94a7612adec18898",
+            "type": "tabs",
+            "dimension": 45.97701149425288,
+            "children": [
+              {
+                "id": "ffb09f5d793d36f1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -39,125 +73,12 @@
                 }
               },
               {
-                "id": "e1666288021ede58",
+                "id": "9294a637a112ba11",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ravenloft/Barovia/Castle of Strahd/-Characters-/Strahd.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3cd93b2658789ae3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ravenloft/Barovia/Town of Barovia/Blood of the Vine Tavern/Blood of the Vine Tavern.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e5632fd8660255f2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-Players-/Ethan Sorrel/-Characters-/Dukane/Dukane.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7b545e401fa1d4d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-Players-/Elliot Gravestock/-Characters-/Artemis Lee/Artemis Lee.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5f1457ba10ce126a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ravenloft/Barovia/Town of Barovia/-Characters-/Ismark Kolyana.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "656612c6ceb991f3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ravenloft/Barovia/-Characters-/Draken.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 7,
-            "stacked": true
-          },
-          {
-            "id": "4fc84ccffac7f62e",
-            "type": "tabs",
-            "dimension": 49.353448275862064,
-            "children": [
-              {
-                "id": "6d62746d21c3dc22",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-Campaigns-/Curse Of Strahd/Session 0/Session 0.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7e7d07cae4c8c584",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-Campaigns-/Curse Of Strahd/Session 1/Checking out the Tavern.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "af534f832474dc0b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-Campaigns-/Curse Of Strahd/Session 2/Trying to Save Ismark.md",
+                    "file": "Ravenloft/Barovia/Village of Barovia/-Characters-/Ireena Kolyana.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
@@ -165,7 +86,7 @@
                 }
               }
             ],
-            "currentTab": 2,
+            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -198,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strahd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ae11f3aacbc0c3a",
@@ -227,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Campaigns-/Curse Of Strahd/Session 2/Trying to Save Ismark.md",
+                "file": "-Campaigns-/Curse Of Strahd/Session 6/The Consequences of our Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Campaigns-/Curse Of Strahd/Session 2/Trying to Save Ismark.md",
+                "file": "-Campaigns-/Curse Of Strahd/Session 6/The Consequences of our Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,45 +209,46 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "aa78aacd44b75052",
+  "active": "c62ae512749d1122",
   "lastOpenFiles": [
-    "Ravenloft/Barovia/-Characters-/Draken.md",
-    "Ravenloft/Barovia/Town of Barovia/-Characters-/Ismark Kolyana.md",
-    "Ravenloft/Barovia/Castle of Strahd/-Characters-/Strahd.md",
-    "Ravenloft/Barovia/Town of Barovia/Blood of the Vine Tavern/Blood of the Vine Tavern.md",
-    "-Players-/Ethan Sorrel/-Characters-/Dukane/Dukane.md",
-    "-Campaigns-/Curse Of Strahd/Session 2/Trying to Save Ismark.md",
-    "-Players-/Elliot Gravestock/-Characters-/Artemis Lee/Artemis Lee.md",
-    "-Players-/Eleanor Skipper/-Characters-/Alwyn/Alwyn.md",
-    "-Campaigns-/Curse Of Strahd/Session 1/Checking out the Tavern.md",
-    "-Players-/Ethan Sorrel/Ethan Sorrel.md",
-    "-Players-/Ethan Sorrel/-Characters-/Dukane",
-    "-Players-/Ethan Sorrel/-Characters-",
-    "-Players-/Ethan Sorrel",
-    "Ravenloft/Barovia/Town of Barovia/Town of Barovia.md",
-    "Ravenloft/Barovia/Town of Barovia/-Characters-/Arrick.md",
-    "-Campaigns-/Curse Of Strahd/Session 2/Scene 1.md",
-    "-Campaigns-/Curse Of Strahd/Session 2/Session 2.md",
-    "Ravenloft/Barovia/Town of Barovia/-Characters-/Gertrude.md",
-    "Ravenloft/Barovia/Town of Barovia/-Characters-/Mad Mary.md",
-    "Faerûn/-Characters-/Random Raven.md",
+    "-Players-/Shaan Jivan/-Characters-/Marko Romenzo/Marko Romenzo.md",
+    "-Campaigns-/Curse Of Strahd/Session 5/Madame Eva.md",
+    "-Campaigns-/Curse Of Strahd/Session 6/The Consequences of our Actions.md",
+    "-Campaigns-/Curse Of Strahd/Session 5/Robbing Our Friends.md",
+    "Ravenloft/Barovia/Village of Barovia/-Characters-/Ireena Kolyana.md",
     "Ravenloft/Barovia/Tser Pool/Tser Pool.md",
-    "Ravenloft/Barovia/Town of Barovia/-Characters-/Madam Eva.md",
-    "-Campaigns-/Curse Of Strahd/Session 1/Investigating the crying Lady.md",
-    "-Campaigns-/Curse Of Strahd/Session 1/Arriving in town..md",
-    "-Campaigns-/Curse Of Strahd/Session 1/Approaching the Mound.md",
-    "-Campaigns-/Curse Of Strahd/Session 1/After the Gate.md",
-    "-Campaigns-/Curse Of Strahd/Session 1/Arriving at the Gate.md",
-    "-Players-/Christopher Lloyd/-Characters-/Rolando/Rolando.md",
-    "Ravenloft/Barovia/Town of Barovia/-Characters-/Kolyana Indirovich.md",
-    "-Players-/Elliot Gravestock/-Characters-/Artemis Lee/Artemis Lv3.pdf",
-    "-Players-/Elliot Gravestock/-Characters-/Artemis Lee/Artemis Lv2.pdf",
+    "-Campaigns-/Curse Of Strahd/Session 5/Session 5.md",
+    "-Campaigns-/Curse Of Strahd/Session 6/Session 6.md",
+    "-Campaigns-/Curse Of Strahd/Session 6",
+    "Ravenloft/Barovia/Village of Barovia/-Characters-/Ismark Kolyana.md",
+    "Ravenloft/Barovia/Village of Barovia/-Characters-/Gertrude.md",
+    "Ravenloft/Barovia/Village of Barovia/-Characters-/BIldrath.md",
+    "Ravenloft/Barovia/Village of Barovia/-Characters-/Arrick.md",
+    "Ravenloft/Barovia/-Characters-/Lukas.md",
+    "Ravenloft/Barovia/-Characters-/Draken.md",
+    "Ravenloft/Barovia/-Characters-/Arrigal.md",
+    "Ravenloft/Ravenloft.md",
+    "Faerûn/Faerûn.md",
+    "-Campaigns-/Curse Of Strahd/Session 4/Shopping Episode.md",
+    "-Factions-/Vestani.md",
+    "Ravenloft/Barovia/Tser Pool/-Characters-/Christina.md",
+    "Ravenloft/Barovia/Tser Pool/-Characters-/Jathar.md",
+    "Ravenloft/Barovia/Tser Pool/Tser Pool.bmp",
+    "Ravenloft/Barovia/Tser Pool/-Characters-",
+    "Ravenloft/Barovia/Village of Barovia/Church/Church.md",
+    "Ravenloft/Velaki/Velaki.md",
+    "Ravenloft/Barovia/Village of Barovia/-Characters-/Madam Eva.md",
+    "Ravenloft/Barovia/Village of Barovia/BIldrath's Mercantile/BIldrath's Mercantile.md",
+    "Ravenloft/Barovia/River Iblis/River Iblis.md",
+    "Ravenloft/Velaki/Lake",
+    "Ravenloft/Barovia/River Iblis",
+    "-Campaigns-/Curse Of Strahd/Session 5",
+    "-Players-/Shaan Jivan/-Characters-/Marko Romenzo",
+    "-Players-/Shaan Jivan/-Characters-",
+    "Ravenloft/Barovia/Tser Falls",
+    "-Campaigns-/Curse Of Strahd/Session 4",
+    "Ravenloft/Barovia/Village of Barovia/Church/-Characters-",
     "-Players-/Elliot Gravestock/-Characters-/Artemis Lee/Artemis.png",
-    "-Campaigns-/Curse Of Strahd/Session 2",
-    "Ravenloft/Barovia/Tser Pool",
-    "Ravenloft/Barovia/Town of Barovia/Ildrith's Mercantile",
-    "Ravenloft/Barovia/Town of Barovia/Burgomaster House",
-    "Ravenloft/Velaki/-Characters-",
     "Faerûn/The Gate/Gate.png"
   ]
 }

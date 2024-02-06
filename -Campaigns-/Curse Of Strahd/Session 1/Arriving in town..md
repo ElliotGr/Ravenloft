@@ -7,7 +7,7 @@ fc-calendar: Barovian Calendar
 fc-category: Curse Of Strahd
 fc-date: 735-11-1
 index: 6
-location: "[[Town of Barovia|Town of Barovia]]"
+location: "[[Village of Barovia|Village of Barovia]]"
 session: "[[-Campaigns-/Curse Of Strahd/Session 1/Session 1.md|Session 1]]"
 ---
 

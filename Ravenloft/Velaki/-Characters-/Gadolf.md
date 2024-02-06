@@ -11,4 +11,4 @@ location: "[[Ravenloft/Velaki/Velaki.md|Velaki]]"
 > [!info]- What do they look like?
 >
 
-He makes toys
+He makes toys in [[Velaki]].

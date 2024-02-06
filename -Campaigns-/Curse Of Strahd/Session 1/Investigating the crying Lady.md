@@ -7,7 +7,7 @@ fc-calendar: Barovian Calendar
 fc-category: Curse Of Strahd
 fc-date: 735-11-1
 index: 7
-location: "[[Ravenloft/Barovia/Town of Barovia/Crying Lady House/Crying Lady House.md|Crying Lady House]]"
+location: "[[Crying Lady House|Crying Lady House]]"
 session: "[[-Campaigns-/Curse Of Strahd/Session 1/Session 1.md|Session 1]]"
 ---
 
